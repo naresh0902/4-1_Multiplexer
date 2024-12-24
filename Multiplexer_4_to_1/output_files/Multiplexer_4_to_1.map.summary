@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Tue Dec 24 15:09:09 2024
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+Revision Name : Multiplexer_4_to_1
+Top-level Entity Name : Multiplexer_4_to_1
+Family : MAX 10
+Total logic elements : 2
+    Total combinational functions : 2
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 13
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
